@@ -1,0 +1,6 @@
+FIREBASE - DATABASE | AUTHENTICATION | 
+npm install -g firebase-tools --> install firebase tools
+state - short time memory stored in react
+Firebase is simple, has cloud functions written in nodejs, can be scaled up or down.
+Firebase give real-time database. 3 lines of code to set a real-time 2-way sync with the DB
+SQL + NoSQL => Firebase! Document collection storage.

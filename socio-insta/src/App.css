@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+
+.app{
+  background-color: #fafafa;
+}
+.app__header {
+  background-color: white;
+  object-fit: contain; /*not streched*/
+  border-bottom: 1px solid lightgray;
+  padding: 10px; /*Will add it inside, margin will add it outside*/
+}
+
+.app__headerImage{
+  width: 150px;
+}
